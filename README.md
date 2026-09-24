@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav2701-kh/DSA/tree/master/0002-add-two-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gaurav2701-kh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Gaurav2701-kh/DSA/tree/master/0500-keyboard-row) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gaurav2701-kh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
