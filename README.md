@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gaurav2701-kh/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/Gaurav2701-kh/DSA/tree/master/0500-keyboard-row) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gaurav2701-kh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -56,9 +57,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gaurav2701-kh/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Gaurav2701-kh/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
