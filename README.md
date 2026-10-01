@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurav2701-kh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/Gaurav2701-kh/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gaurav2701-kh/DSA/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurav2701-kh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -70,4 +72,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Gaurav2701-kh/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gaurav2701-kh/DSA/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurav2701-kh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
