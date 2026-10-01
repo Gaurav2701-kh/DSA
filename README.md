@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav2701-kh/DSA/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gaurav2701-kh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -31,11 +32,13 @@
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/Gaurav2701-kh/DSA/tree/master/0500-keyboard-row) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gaurav2701-kh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/Gaurav2701-kh/DSA/tree/master/0500-keyboard-row) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gaurav2701-kh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -46,4 +49,16 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gaurav2701-kh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Gaurav2701-kh/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
